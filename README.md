@@ -206,7 +206,7 @@ Enter **Advanced Mode** and **Load Optimized Defaults** to reset the default BIO
     * Scheme: `GUID Partition Map`
 2. Launch Install macOS and select the `Macintosh SSD` drive as the destination 
     * As the system restarts, keep selecting `Boot macOS Install from Macintosh SSD` from the Clover menu
-    * If the system freezes, use the power button to shut down the computer and turn off the power supply. Wait a few minutes before restarting to continue the installation process.
+    * **If the system freezes, use the power button to shut down the computer and turn off the power supply. Wait a few minutes before restarting to continue the installation process.**
 4. Once the installation is complete, select `Boot macOS from Macintosh SSD` from the Clover menu
     * Proceed through the normal macOS setup but delay signing into iCloud until post installation is complete
     
